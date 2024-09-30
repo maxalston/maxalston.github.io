@@ -1,0 +1,9 @@
+title: Max Alston
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+
+exclude:
+  - "README.md"
