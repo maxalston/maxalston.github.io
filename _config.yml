@@ -11,3 +11,5 @@ plugins:
 
 exclude:
   - "README.md"
+  
+author: Max Alston
