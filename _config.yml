@@ -11,5 +11,15 @@ plugins:
 
 exclude:
   - "README.md"
-  
+
+minima:
+  social_links:
+    - title: GitHub
+      icon: github
+      url: "https://github.com/maxalston"
+    - title: Google Scholar
+      icon: google-scholar
+      url: "https://scholar.google.com/citations?user=6if9zfIAAAAJ"
+  hide_site_feed_link: true
+
 author: Max Alston

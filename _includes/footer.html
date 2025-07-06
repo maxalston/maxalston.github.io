@@ -1,3 +1,65 @@
+<link id="fa-stylesheet" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css">
+
+<style>
+/* Custom styles for horizontal social media list */
+.social-media-list {
+  display: flex !important;
+  flex-direction: row !important;
+  gap: 15px !important;
+  list-style: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.social-media-list li {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.social-media-list a {
+  display: inline-block;
+  text-decoration: none;
+}
+
+.social-media-list .fa-brands,
+.social-media-list .svg-icon {
+  font-size: 1.2em;
+  transition: color 0.3s ease;
+}
+
+.social-media-list a:hover .fa-brands,
+.social-media-list a:hover .svg-icon {
+  color: #2a7ae4;
+}
+</style>
+
 <footer class="site-footer h-card">
+  <data class="u-url" value="{{ '/' | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col">
+      {%- if site.author %}
+        <ul class="contact-list">
+          {% if site.author.name -%}
+            <li class="p-name">{{ site.author.name | escape }}</li>
+          {% endif -%}
+          {% if site.author.email -%}
+            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+          {%- endif %}
+        </ul>
+      {%- endif %}
+      </div>
+      <div class="footer-col">
+        <p>{{ site.description | escape }}</p>
+      </div>
+    </div>
+
+    <div class="social-links">
+      {%- include social.html -%}
+    </div>
+
+  </div>
 
 </footer>
