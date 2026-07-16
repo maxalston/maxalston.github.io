@@ -1,0 +1,35 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+.profile-header {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  margin-bottom: $spacing-unit;
+}
+
+.profile-photo {
+  flex: 0 0 auto;
+  width: 300px;
+  max-width: 40%;
+  height: auto;
+}
+
+.profile-text {
+  flex: 1 1 auto;
+}
+
+@media screen and (max-width: 600px) {
+  .profile-header {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .profile-photo {
+    max-width: 60%;
+  }
+}

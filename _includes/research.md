@@ -1,3 +1,6 @@
+<h2>Job market paper </h2>
+<p><strong>Credit supply, consumption and risk premia</strong> [Draft soon]
+
 <h2>Publications</h2>
 
 <p><strong>On the non-existence of stable matches with incomplete information</strong> <em>Games and Economics Behavior</em> 2020, 120:336-344. [<a href="https://www.sciencedirect.com/science/article/pii/S0899825620300099">Published version</a>]
