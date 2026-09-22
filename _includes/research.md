@@ -1,5 +1,10 @@
 <h2>Job market paper </h2>
-<p><strong>Credit supply, consumption and risk premia</strong> [Draft soon]
+<p><strong>Household credit, consumption and risk premia</strong> [Draft soon]
+
+<h2>Working papers </h2>
+<p><strong>Production and pricing of safe assets</strong> (with Rafael Gonçalves and Moritz Lenel) [Draft soon]
+
+<p><strong>Central bank remittances and monetary policy transmission</strong> (with Antonio Giribaldi) [Draft soon]
 
 <h2>Publications</h2>
 
