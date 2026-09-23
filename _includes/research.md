@@ -4,7 +4,7 @@
 <h2>Working papers </h2>
 <p><strong>Production and pricing of safe assets</strong> (with Rafael Gonçalves and Moritz Lenel) [Draft soon]
 
-<p><strong>Central bank remittances and monetary policy transmission</strong> (with Antonio Giribaldi) [Draft soon]
+<p><strong>Government debt maturity and monetary policy</strong> (with Antonio Giribaldi) [Draft soon]
 
 <h2>Publications</h2>
 
