@@ -8,6 +8,8 @@ layout: home
 
 I am an economics PhD candidate at Princeton University. My research interests are in macroeconomics and finance.
 
+I will be on the job market in 2026-27.
+
 You can find my CV [here](./files/alston_cv.pdf).
 
 Contact:
