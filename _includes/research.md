@@ -55,7 +55,11 @@
   <div class="paper-title"><strong>The Term Funding Facility</strong> (with Susan Black, Ben Jackman and Carl Schwartz)</div>
   <div class="paper-info"><em>RBA Bulletin</em>, December 2020</div>
   <div class="paper-links">
+    <button class="abstract-toggle" aria-expanded="false">Abstract</button>
     <a href="https://www.rba.gov.au/publications/bulletin/2020/dec/pdf/the-term-funding-facility.pdf">Link</a>
+  </div>
+  <div class="abstract" hidden>
+    <p>The Reserve Bank's Term Funding Facility (TFF) was announced in March as part of a monetary policy package to reduce funding costs across the economy and to support lending, especially to small and medium-sized businesses. Most of the initial allocations of the TFF were drawn upon by the time the first phase of the facility closed in September. In September, the Reserve Bank Board adjusted the TFF in response to economic conditions, expanding and extending the facility and in November it lowered the interest rate on new drawings. Drawdowns from the TFF have increased the Reserve Bank's balance sheet significantly and the facility has contributed to an easing in financial conditions. As a result of the Reserve Bank's policy measures, including the TFF, bank funding costs and lending rates are at historically low levels.</p>
   </div>
 </div>
 
@@ -63,7 +67,11 @@
   <div class="paper-title"><strong>Developments in Emerging South-East Asia</strong> (with Ivailo Arsov, Matthew Bunny and Peter Rickards)</div>
   <div class="paper-info"><em>RBA Bulletin</em>, December 2018</div>
   <div class="paper-links">
+    <button class="abstract-toggle" aria-expanded="false">Abstract</button>
     <a href="https://www.rba.gov.au/publications/bulletin/2018/dec/pdf/developments-in-emerging-south-east-asia.pdf">Link</a>
+  </div>
+  <div class="abstract" hidden>
+    <p>A number of economies in South-East Asia have been making significant progress in their economic development. This article focuses on the largest middle-income economies in South-East Asia: Indonesia, Malaysia, Thailand, the Philippines and Vietnam. We examine the developments in these economies over recent decades, explore their relationship with Australia and the global economy and consider their potential to reach a significantly higher level of income. These economies have benefited from favourable demographics over recent decades although some will face pressures from ageing populations. However, there are ample opportunities to gain from further improvement in infrastructure, education and labour force participation.</p>
   </div>
 </div>
 
