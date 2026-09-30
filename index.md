@@ -10,11 +10,7 @@ I am an economics PhD candidate at Princeton University. My research interests a
 
 I will be on the job market in 2026-27.
 
-You can find my CV [here](./files/alston_cv.pdf).
-
-Contact:
-
-alston [at] princeton [dot] edu
+You can find my CV [here](./files/alston_cv.pdf) and contact me at [alston@princeton.edu](mailto:alston@princeton.edu).
 
   </div>
 </div>

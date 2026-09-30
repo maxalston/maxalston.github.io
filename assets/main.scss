@@ -33,3 +33,50 @@
     max-width: 60%;
   }
 }
+
+/* Research list: title (with co-authors), journal, then abstract toggle and links */
+.paper {
+  margin-bottom: $spacing-unit * 0.75;
+}
+
+.paper-links {
+  font-size: 0.95rem;
+  color: $grey-color;
+
+  > * + *::before {
+    content: "·";
+    margin: 0 0.5em;
+    color: $grey-color;
+  }
+}
+
+.abstract-toggle {
+  padding: 0;
+  border: 0;
+  background: none;
+  font: inherit;
+  color: inherit;
+  cursor: pointer;
+
+  &::before {
+    content: "\25B8";
+    display: inline-block;
+    margin-right: 0.3em;
+    transition: transform 0.15s ease;
+  }
+
+  &[aria-expanded="true"]::before {
+    transform: rotate(90deg);
+  }
+
+  &:hover {
+    color: $brand-color;
+  }
+}
+
+.abstract p {
+  margin: 0.5rem 0 0;
+  padding-left: 12px;
+  border-left: 2px solid $grey-color-light;
+  font-size: 0.95rem;
+}
