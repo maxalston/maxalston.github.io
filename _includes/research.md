@@ -7,7 +7,15 @@
     <span>Draft soon</span>
   </div>
   <div class="abstract" hidden>
-    <p>I study the transmission of risk premia to aggregate consumption. While prior work emphasises capital prices as the key link between risk premia and consumption, I argue for a distinct propagation channel: cheaper household borrowing. I build a quantitative macro model with capital and risky household debt where a key driving force is shocks to risk premia. Analytically, I show that the consumption of the cross section of households can distinguish between different propagation channels. Empirically, I find that consumption growth comoves most strongly with risk premia for households with consumer credit, consistent with a dominant role for household credit supply. Quantitatively, the model replicates the aggregate and cross-sectional consumption responses to changes in risk premia. Changes in household credit conditions account for around three quarters of the two-year consumption response to a financial shock. I use the model to study stabilisation policies, finding that household credit market intervention is more cost-effective than capital subsidies.</p>
+    <p>I study how risk premia transmit to aggregate consumption. While prior work emphasises links from capital prices 
+to consumption, I argue for a distinct channel: household credit conditions. 
+I build a quantitative macro model with capital, risky household debt and shocks to risk premia. 
+Analytically, I show cross-sectional consumption data distinguish between propagation channels. 
+Empirically, consumption growth comoves most strongly with risk premia for households with consumer credit.
+Quantitatively, the model replicates the aggregate and cross-sectional consumption responses to changes
+in risk premia. Changes in household credit conditions account for most high frequency consumption
+volatility. After a contractionary financial shock, policymakers face a trade-off
+between short-term consumption support and the speed of the recovery.</p>
   </div>
 </div>
 
