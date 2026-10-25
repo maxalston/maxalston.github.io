@@ -4,7 +4,7 @@
   <div class="paper-title"><strong>Household credit, consumption and risk premia</strong></div>
   <div class="paper-links">
     <button class="abstract-toggle" aria-expanded="false">Abstract</button>
-    <span>Draft soon</span>
+    <a href="./files/alston_jmp.pdf">Paper</a>
   </div>
   <div class="abstract" hidden>
     <p>I study how risk premia transmit to aggregate consumption. While prior work emphasises links from capital prices 
@@ -36,7 +36,7 @@ between short-term consumption support and the speed of the recovery.</p>
   <div class="paper-title"><strong>Government debt maturity and monetary policy</strong> (with Antonio Giribaldi)</div>
   <div class="paper-links">
     <button class="abstract-toggle" aria-expanded="false">Abstract</button>
-    <span>Draft soon</span>
+    <a href="./files/alston_giribaldi.pdf">Paper</a>
   </div>
   <div class="abstract" hidden>
     <p>We study how the maturity structure of consolidated government debt shapes monetary transmission and welfare. Empirically, we show that a US monetary tightening persistently lowers government purchases and raises debt, while transfers do not respond and tax receipts fall with activity. In a New Keynesian model with separate fiscal and central bank balance sheets, monetary tightening is amplified through a fiscal channel: rising interest costs on debt force spending cuts. Under a Taylor rule, short-term debt dampens the response of public spending to demand shocks and welfare peaks at an interior share of short-term debt. Under optimal policy with commitment, long-term debt is welfare-optimal because it allows the central bank to stabilise demand fluctuations without contemporaneous fiscal disruptions.</p>
