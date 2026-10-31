@@ -10,7 +10,8 @@
     <p>I study how risk premia transmit to aggregate consumption. While prior work emphasizes links from capital prices 
 to consumption, I argue for a distinct channel: household credit conditions. 
 I build a quantitative macro model with capital, risky household debt and shocks to risk premia. 
-Analytically, I show cross-sectional consumption data distinguish between propagation channels. 
+Analytically, I show that cross-sectional consumption data distinguish between the effects of risk 
+premia through household credit and capital prices.
 Empirically, consumption growth comoves most strongly with risk premia for households with consumer credit.
 Quantitatively, the model replicates the aggregate and cross-sectional consumption responses to changes
 in risk premia. Changes in household credit conditions account for most high-frequency consumption
