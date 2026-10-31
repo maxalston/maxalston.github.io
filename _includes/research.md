@@ -7,15 +7,15 @@
     <a href="./files/alston_jmp.pdf">Paper</a>
   </div>
   <div class="abstract" hidden>
-    <p>I study how risk premia transmit to aggregate consumption. While prior work emphasises links from capital prices 
+    <p>I study how risk premia transmit to aggregate consumption. While prior work emphasizes links from capital prices 
 to consumption, I argue for a distinct channel: household credit conditions. 
 I build a quantitative macro model with capital, risky household debt and shocks to risk premia. 
 Analytically, I show cross-sectional consumption data distinguish between propagation channels. 
 Empirically, consumption growth comoves most strongly with risk premia for households with consumer credit.
 Quantitatively, the model replicates the aggregate and cross-sectional consumption responses to changes
-in risk premia. Changes in household credit conditions account for most high frequency consumption
-volatility. After a contractionary financial shock, policymakers face a trade-off
-between short-term consumption support and the speed of the recovery.</p>
+in risk premia. Changes in household credit conditions account for most high-frequency consumption
+volatility. Macroprudential stabilization of household credit dampens the short-run effects of risk
+premia on consumption, while stabilizing capital markets smooths consumption at longer horizons.</p>
   </div>
 </div>
 
