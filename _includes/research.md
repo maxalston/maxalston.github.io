@@ -15,8 +15,8 @@ premia through household credit and capital prices.
 Empirically, consumption growth comoves most strongly with risk premia for households with consumer credit.
 Quantitatively, the model replicates the aggregate and cross-sectional consumption responses to changes
 in risk premia. Changes in household credit conditions account for most high-frequency consumption
-volatility. Macroprudential stabilization of household credit dampens the short-run effects of risk
-premia on consumption, while stabilizing capital markets smooths consumption at longer horizons.</p>
+volatility. Countercyclical macroprudential policies are complementary when applied
+across household credit and capital markets.</p>
   </div>
 </div>
 
